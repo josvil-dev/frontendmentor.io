@@ -10,7 +10,7 @@ The designs were created to the following widths:
 ## Colors
 
 ### Primary
-
+s
 - Pale blue: hsl(225, 100%, 94%)
 - Bright blue: hsl(245, 75%, 52%)
 
