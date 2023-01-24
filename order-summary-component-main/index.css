@@ -8,7 +8,24 @@ body {
     justify-content: center;
     height: 100vh;
 }
-
+.whatever {
+    background-color:hsl(228, 45%, 44%) ;
+    padding: 3;
+    padding-left: 6;
+    padding-right: 6;
+    padding-top: 2;
+    color:white;
+    align-items: center;
+    
+}
+.that{
+    background-color: hsl(212, 45%, 89%); ;
+    padding: 3;
+    padding-left: 6;
+    padding-right: 6;
+    padding-top: 2;
+    color:white;
+}
 .container {
     background-attachment: hsl(0, 0%, 100%);
     box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.1);
